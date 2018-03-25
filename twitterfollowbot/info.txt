@@ -1,0 +1,2 @@
+deque.popleft() : Remove and return an element from the left side of the deque. If no elements are present, raises an IndexError.
+          : # if this line would be removed then it will follow the same account multiple times
