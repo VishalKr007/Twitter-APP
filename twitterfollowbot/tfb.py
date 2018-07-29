@@ -2,10 +2,10 @@ import tweepy
 from collections import deque
 
 # key and token for oauth process
-consumer_key = 	'hoWNu6LXSRVkNMpcypzVhr2Rf'
-consumer_secret = 'gCSlErqZgWY2ah0Z3CF7gQLPDnjy1dn2ZVJN3EAn0njMiFEnmt'
-access_token = '810148484829609984-v2LoYkoIOvHgHsiFcY9hGF4EbQWwBQR'
-access_token_secret = '51c7KbrG6F6I3XiSLslAiA5Otn2OQeJGx0MQ6oPgugACi'
+consumer_key = 	'h********************f'
+consumer_secret = 'g****************************mt'
+access_token = '8****************************R'
+access_token_secret = '5*******************************Ci'
 
 # setting up Oauth and integrate with api
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
